@@ -1,4 +1,4 @@
-# fire-blogs
+# ko-blogs
 
 ## Project setup
 ```
